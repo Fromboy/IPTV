@@ -1,0 +1,13 @@
+#DATE 2024-01-09 
+此地址一共三种文件，文件M3U和TXT选一个用就可以，资源相同
+IPTV6-M3U地址：https://raw.githubusercontent.com/Fromboy/IPTV/main/IPTV6.M3U
+IPTV6-txt地址： https://raw.githubusercontent.com/Fromboy/IPTV/main/IPTV6.txt
+
+IPTV4-6 txt地址：https://raw.githubusercontent.com/Fromboy/IPTV/main/IPTV4-6.txt
+IPTV4-6 m3u地址：https://raw.githubusercontent.com/Fromboy/IPTV/main/IPTV4-6.m3u
+
+IPTV4  M3U地址：https://raw.githubusercontent.com/Fromboy/IPTV/main/iptv4.M3U
+IPTV4  txt地址：https://raw.githubusercontent.com/Fromboy/IPTV/main/iptv4.txt
+
+M3U列表转换器
+https://guihet.com/tvlistconvert.html#zbyjg

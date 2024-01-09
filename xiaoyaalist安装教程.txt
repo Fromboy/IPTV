@@ -1,0 +1,39 @@
+最简单就是用host模式（端口6789）安装一次，可以规避桥接模式遇到防火墙规则冲突等问题
+## openwrt或者vps下安装，调出终端命令行
+openwrt控制面板左侧（“系统”或“服务”下找到“TTY终端”）
+ssh 登入 openwrt
+然后一键安装
+
+> **bash -c "$(curl http://docker.xiaoya.pro/update_new.sh)"**
+> 
+如果是用host模式安装，则用
+
+> bash -c "$(curl http://docker.xiaoya.pro/update_new.sh)" -s host
+
+# 容器内 /data 目录的文件功能说明：
+标注******* 的文件为必要，必须存在和有内容，所有的配置文件缺省位置在宿主机的 /etc/xiaoya
+**文件**：**mytoken.txt *****
+用途：用来加载阿里分享，和自动签到
+格式：75fee1ca79514e60aa6d46c8370b9afd
+备注：32位长度，参考 https://t.me/PlutoPlayer/239324
+
+**文件**：**myopentoken.txt *****
+用途：用来加载自己的阿里云盘（open接口）
+格式：eyJ0eXAiOixxxxxLCJhbGciOiJSUzI1NiJ9.eyJzd999999wNzBkOWRiNWQ5YmQ0YT........
+备注：很长一串，280位，获取方式 https://alist.nn.ci/zh/guide/drivers/aliyundrive_open.html
+
+**文件**：**temp_transfer_folder_id.txt *****
+用途：你的阿里网盘的转存目录的folder id
+格式：640xxxxxxxxxxxxxxxxxxxca8a
+备注：打开你阿里云盘网页，目录所在的浏览器地址
+
+你需要配置好三个必要参数再安装：
+token获取
+https://aliyuntoken.vercel.app/
+https://alist.nn.ci/zh/guide/drivers/aliyundrive.htm
+opentoken
+https://alist.nn.ci/zh/guide/drivers/aliyundrive_open.html
+文件ID
+先转存这个
+https://www.aliyundrive.com/s/rP9gP3h9asE  到自己网盘（选择资源盘），然后浏览器打开转存后的目录，浏览器的url 
+https://www.aliyundrive.com/drive/file/resource/640xxxxxxxxxxxxxxxxxxxca8a 最后一串就是，记得这个目录不要删，里面的内容可以定期删除
