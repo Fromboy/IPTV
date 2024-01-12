@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1 group-title="百视有线",百视有线直播
+https://bp-caster.bestv.com.cn/944/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV1
+https://bp-caster.bestv.com.cn/943/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV2
+https://bp-caster.bestv.com.cn/926/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV3
+https://bp-caster.bestv.com.cn/945/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV4
+https://bp-caster.bestv.com.cn/900/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV5
+https://bp-caster.bestv.com.cn/956/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV6
+https://bp-caster.bestv.com.cn/947/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV7
+https://bp-caster.bestv.com.cn/941/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV8
+https://bp-caster.bestv.com.cn/953/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV9
+https://bp-caster.bestv.com.cn/939/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV10
+https://bp-caster.bestv.com.cn/938/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV11
+https://bp-caster.bestv.com.cn/937/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV12
+https://bp-caster.bestv.com.cn/954/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播TV14
+https://bp-caster.bestv.com.cn/934/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播1
+https://bp-caster.bestv.com.cn/946/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播2
+https://bp-caster.bestv.com.cn/955/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线直播3
+https://bp-caster.bestv.com.cn/940/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线独播1
+https://bp-caster.bestv.com.cn/723/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线独播2
+https://bp-caster.bestv.com.cn/936/3/video.m3u8
 #EXTINF:-1 group-title="央视CCTV IP4",CCTV1
 http://148.135.93.213:81/PLTV/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 group-title="央视CCTV IP4",CCTV2
@@ -287,41 +325,3 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/o
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="央视CCTV IP6 2",内蒙古卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播
-https://bp-caster.bestv.com.cn/944/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV1
-https://bp-caster.bestv.com.cn/943/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV2
-https://bp-caster.bestv.com.cn/926/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV3
-https://bp-caster.bestv.com.cn/945/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV4
-https://bp-caster.bestv.com.cn/900/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV5
-https://bp-caster.bestv.com.cn/956/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV6
-https://bp-caster.bestv.com.cn/947/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV7
-https://bp-caster.bestv.com.cn/941/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV8
-https://bp-caster.bestv.com.cn/953/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV9
-https://bp-caster.bestv.com.cn/939/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV10
-https://bp-caster.bestv.com.cn/938/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV11
-https://bp-caster.bestv.com.cn/937/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV12
-https://bp-caster.bestv.com.cn/954/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV14
-https://bp-caster.bestv.com.cn/934/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播1
-https://bp-caster.bestv.com.cn/946/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播2
-https://bp-caster.bestv.com.cn/955/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播3
-https://bp-caster.bestv.com.cn/940/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线独播1
-https://bp-caster.bestv.com.cn/723/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线独播2
-https://bp-caster.bestv.com.cn/936/3/video.m3u8
