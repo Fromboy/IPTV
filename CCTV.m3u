@@ -325,3 +325,301 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/o
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="央视CCTV IP6 2",内蒙古卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV1
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV1
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV1
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV1
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV2
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV2
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/1/224/3221228487/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV3
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV3
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV3
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4欧洲台
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=1
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4欧洲台
+http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193×tamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4美洲台
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=1
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4美洲台
+http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193×tamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226587/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5+
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5+
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5+
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226253/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV5+
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV6
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV6
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228484/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV7
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228283/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV8
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV9
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228303/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV10
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228286/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV11
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV12
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/5/224/3221228551/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV13
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV-14
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228292/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV-15
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228404/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV16
+http://[2409:8087:1414:22::112d]/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227071/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV17
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CGTN
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CETV1
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8?
+#EXTINF:-1 group-title="央视频 IP6 3",CETV1
+http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001020/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
+#EXTINF:-1 group-title="央视频 IP6 3",CETV4
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8?
+#EXTINF:-1 group-title="央视频 IP6 3",CETV4
+http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001348/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV电视指南
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV央视文化精品
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV世界地理
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV世界地理
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV风云剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV风云剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV风云音乐
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV风云音乐
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV第一剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV第一剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV女性时尚
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV女性时尚
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV怀旧剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV兵器科技
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV风云足球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV风云足球
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV文化精品
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV8K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4K
+http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4K
+http://60.205.114.16/live/cctv4k.m3u8?user=APTV66&line=3
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV4K
+http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV16_4K
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV16_4K
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV16_4K
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",CCTV16_4K
+http://58.32.18.118:4022/rtp/239.45.1.21:5140
+#EXTINF:-1 group-title="央视频 IP6 3",广东4K超高清
+http://220.231.188.200:8089/hls/30/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",4KUHD
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",4KUHD
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",南国都市4K
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",纯享4K
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",纯享4K
+http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",纯享4K
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",纯享4K
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",欢笑剧场4K
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",欢笑剧场4K
+http://221.228.219.15/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/kxjc4k/8000000/d3.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",欢笑剧场4K
+http://111.13.111.242/0000000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="央视频 IP6 3",欢笑剧场4K
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",4K修复
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",绚影4K专区
+http://222.212.90.192:18000/udp/239.93.42.33:5140
+#EXTINF:-1 group-title="央视频 IP6 3",Bloomberg TV+
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="央视频 IP6 3",北京卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",东方卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",浙江卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",江苏卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",江西卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1965546073_-1364170119/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8?icpid=3&RTS=1669700566&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",河北卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1698524218_988816054/ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8?icpid=3&RTS=1669700299&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",河南卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",海南卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2843123663_1489055229/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1669701444&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",深圳卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",湖北卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3059146177_-1525708880/ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8?icpid=3&RTS=1668597853&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",四川卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",天津卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1668597525&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",安徽卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",山东卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw2848465480_1677095697/ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8?icpid=3&RTS=1668597642&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",广东卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",广西卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",贵州卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",辽宁卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",重庆卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",龙江卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1668597937&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",甘肃卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",吉林卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",三沙卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 group-title="央视频 IP6 3",东南卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2900649569_-743777193/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1669701501&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",青海卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",新疆卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="央视频 IP6 3",东方卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",北京卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",天津卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",安徽卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",山东卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",广东卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",江苏卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",浙江卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",深圳卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",湖北卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",湖南卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",辽宁卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",黑龙江卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="央视频 IP6 3",安徽卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001037/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",北京卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001029/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",东南卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001201/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",甘肃卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001298/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",广东卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001032/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",广西卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001224/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",贵州卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001184/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",海南卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001183/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",河北卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001229/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",河南卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001222/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",黑龙江卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001031/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",湖北卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001027/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",吉林卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001225/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",江苏卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001033/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",江西卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001034/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",辽宁卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001035/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",山东卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001028/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",深圳卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001030/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",四川卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001130/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",天津卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001036/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",云南卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",浙江卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001023/1.m3u8
+#EXTINF:-1 group-title="央视频 IP6 3",重庆卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001129/1.m3u8
+
+
+
