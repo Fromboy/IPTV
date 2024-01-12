@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-APTV1-Kimentanm直播IPV6
 #EXT-X-APTV2-YueChan直播IPV6
+#EXT-X-APTV3-GatherIPV6直播
+#EXT-X-APTV3-悠哉IPV6直播
 #EXTINF:-1 group-title="百视有线",百视有线直播
 https://bp-caster.bestv.com.cn/944/3/video.m3u8
 #EXTINF:-1 group-title="百视有线",百视有线直播TV1
