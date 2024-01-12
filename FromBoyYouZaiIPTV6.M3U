@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1 group-title="百视有线",百视有线
+https://bp-caster.bestv.com.cn/944/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线1
+https://bp-caster.bestv.com.cn/943/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线2
+https://bp-caster.bestv.com.cn/926/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线3
+https://bp-caster.bestv.com.cn/945/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线4
+https://bp-caster.bestv.com.cn/900/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线5
+https://bp-caster.bestv.com.cn/956/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线6
+https://bp-caster.bestv.com.cn/947/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线7
+https://bp-caster.bestv.com.cn/941/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线8
+https://bp-caster.bestv.com.cn/953/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线9
+https://bp-caster.bestv.com.cn/939/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线10
+https://bp-caster.bestv.com.cn/938/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线11
+https://bp-caster.bestv.com.cn/937/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线12
+https://bp-caster.bestv.com.cn/954/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线14
+https://bp-caster.bestv.com.cn/934/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线自制1
+https://bp-caster.bestv.com.cn/946/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线自制2
+https://bp-caster.bestv.com.cn/955/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线自制3
+https://bp-caster.bestv.com.cn/940/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线独播
+https://bp-caster.bestv.com.cn/723/3/video.m3u8
+#EXTINF:-1 group-title="百视有线",百视有线独播
+https://bp-caster.bestv.com.cn/936/3/video.m3u8
 #EXTINF:-1,中国天气
 http://[2409:8087:1e03:21::35]:6610/cms001/ch00000090990000001102/index.m3u8?IASHttpSessionId=RR1550020231201050336120465&ispcode=12
 #EXTINF:-1,中国天气
