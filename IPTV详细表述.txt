@@ -9,7 +9,9 @@ IPTV4-6 m3u地址：https://raw.githubusercontent.com/Fromboy/IPTV/main/IPTV4-6.
 IPTV4  M3U地址：https://raw.githubusercontent.com/Fromboy/IPTV/main/iptv4.M3U
 IPTV4  txt地址：https://raw.githubusercontent.com/Fromboy/IPTV/main/iptv4.txt
 
-IPTV合辑 M3U地址： https://raw.githubusercontent.com/Fromboy/IPTV/main/FromBoyYouZaiIPTV6.M3U
+IPTV大合辑 M3U地址： https://raw.githubusercontent.com/Fromboy/IPTV/main/FromBoyYouZaiIPTV6.M3U
+
+IPTV只有央视卫视 M3U地址： https://raw.githubusercontent.com/Fromboy/IPTV/main/CCTV.m3u
 
 M3U列表转换器
 https://guihet.com/tvlistconvert.html#zbyjg
