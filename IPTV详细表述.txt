@@ -13,5 +13,7 @@ IPTV大合辑 M3U地址： https://raw.githubusercontent.com/Fromboy/IPTV/main/F
 
 IPTV只有央视卫视 M3U地址： https://raw.githubusercontent.com/Fromboy/IPTV/main/CCTV.m3u
 
+gyssi组播悠哉在线直播地址： https://raw.githubusercontent.com/Fromboy/IPTV/main/gyssi.m3u
+
 M3U列表转换器
 https://guihet.com/tvlistconvert.html#zbyjg
