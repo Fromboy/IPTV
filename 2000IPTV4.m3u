@@ -26,120 +26,171 @@
 百视有线独播1,https://bp-caster.bestv.com.cn/723/3/video.m3u8
 百视有线独播2,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="河南IPTV4",CCTV1-综合
+http://1.196.224.3:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV2-财经
+http://1.196.224.3:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV3-综艺
+http://1.196.224.3:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV4-国际
+http://1.196.224.3:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV5-体育
+http://1.196.224.3:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV6-电影
+http://1.196.224.3:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV7-军事
+http://1.196.224.3:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV8-电视剧
+http://1.196.224.3:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV9-纪录
+http://1.196.224.3:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV10-科教
+http://1.196.224.3:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV11-戏曲
+http://1.196.224.3:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV12-社会与法
+http://1.196.224.3:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV13-新闻
+http://1.196.224.3:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV14-少儿
+http://1.196.224.3:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV15-音乐
+http://1.196.224.3:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",中国教育
+http://1.196.224.3:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南卫视
+http://1.196.224.3:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南都市频道
+http://1.196.224.3:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南民生频道
+http://1.196.224.3:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南法制频道
+http://1.196.224.3:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南电视剧频道
+http://1.196.224.3:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南新闻频道
+http://1.196.224.3:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",欢腾购物
+http://1.196.224.3:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南公共频道
+http://1.196.224.3:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南新农村频道
+http://1.196.224.3:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",移动戏曲
+http://1.196.224.3:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",文物频道
+http://1.196.224.3:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",梨园频道
+http://1.196.224.3:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",武术世界
+http://1.196.224.3:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",国学频道
+http://1.196.224.3:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV5+
+http://1.196.224.3:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",老故事
+http://1.196.224.3:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",百姓调解
+http://1.196.224.3:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",法制天地
+http://1.196.224.3:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",CCTV16奥林匹克
+http://1.196.224.3:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",湖南卫视
+http://1.196.224.3:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",上海卫视
+http://1.196.224.3:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",福建东南
+http://1.196.224.3:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",陕西卫视
+http://1.196.224.3:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",广西卫视
+http://1.196.224.3:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",深圳卫视
+http://1.196.224.3:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",重庆卫视
+http://1.196.224.3:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",山东卫视
+http://1.196.224.3:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",贵州卫视
+http://1.196.224.3:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",江苏卫视
+http://1.196.224.3:9901/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",安徽卫视
+http://1.196.224.3:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",北京卫视
+http://1.196.224.3:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",云南卫视
+http://1.196.224.3:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",四川卫视
+http://1.196.224.3:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",湖北卫视
+http://1.196.224.3:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河北卫视
+http://1.196.224.3:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",江西卫视
+http://1.196.224.3:9901/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",天津卫视
+http://1.196.224.3:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",山西卫视
+http://1.196.224.3:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",内蒙古卫视
+http://1.196.224.3:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",宁夏卫视
+http://1.196.224.3:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",新疆卫视
+http://1.196.224.3:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",吉林卫视
+http://1.196.224.3:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",辽宁卫视
+http://1.196.224.3:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",河南国际
+http://1.196.224.3:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",浙江卫视
+http://1.196.224.3:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",广东卫视
+http://1.196.224.3:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",黑龙江卫视
+http://1.196.224.3:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",西藏卫视
+http://1.196.224.3:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",青海卫视
+http://1.196.224.3:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",甘肃卫视
+http://1.196.224.3:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",优漫卡通
+http://1.196.224.3:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",金鹰卡通
+http://1.196.224.3:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",北京卡通
+http://1.196.224.3:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",炫动卡通
+http://1.196.224.3:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",嘉佳卡通
+http://1.196.224.3:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",信阳综合
+http://1.196.224.3:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",公共频道
+http://1.196.224.3:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",科教频道
+http://1.196.224.3:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",郑州新闻综合
+http://1.196.224.3:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",郑州商都频道
+http://1.196.224.3:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",郑州文体频道
+http://1.196.224.3:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",郑州影视戏曲
+http://1.196.224.3:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",郑州妇女儿童
+http://1.196.224.3:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",郑州都市频道
+http://1.196.224.3:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="河南IPTV4",旅游卫视
+http://1.196.224.3:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 
-📡IPTV 4-1,#genre#
-#EXTINF:-1,CCTV1
-http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
-#EXTINF:-1,CCTV2
-http://222.223.119.21:8888/newlive/live/hls/3/live.m3u8
-#EXTINF:-1,CCTV3
-http://222.223.119.21:8888/newlive/live/hls/4/live.m3u8
-#EXTINF:-1,CCTV4
-http://222.223.119.21:8888/newlive/live/hls/5/live.m3u8
-#EXTINF:-1,CCTV5
-http://222.223.119.21:8888/newlive/live/hls/6/live.m3u8
-#EXTINF:-1,CCTV5+
-http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
-#EXTINF:-1,CCTV6
-http://222.223.119.21:8888/newlive/live/hls/8/live.m3u8
-#EXTINF:-1,CCTV7
-http://222.223.119.21:8888/newlive/live/hls/9/live.m3u8
-#EXTINF:-1,CCTV8
-http://222.223.119.21:8888/newlive/live/hls/10/live.m3u8
-#EXTINF:-1,CCTV9
-http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
-#EXTINF:-1,CCTV10
-http://222.223.119.21:8888/newlive/live/hls/12/live.m3u8
-#EXTINF:-1,CCTV11
-http://222.223.119.21:8888/newlive/live/hls/13/live.m3u8
-#EXTINF:-1,CCTV12
-http://222.223.119.21:8888/newlive/live/hls/14/live.m3u8
-#EXTINF:-1,CCTV13
-http://222.223.119.21:8888/newlive/live/hls/15/live.m3u8
-#EXTINF:-1,CCTV14
-http://222.223.119.21:8888/newlive/live/hls/16/live.m3u8
-#EXTINF:-1,CCTV15
-http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
-#EXTINF:-1,CGTN
-http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
-#EXTINF:-1,北京卫视
-http://222.223.119.21:8888/newlive/live/hls/19/live.m3u8
-#EXTINF:-1,东方卫视
-http://222.223.119.21:8888/newlive/live/hls/20/live.m3u8
-#EXTINF:-1,广东卫视
-http://222.223.119.21:8888/newlive/live/hls/21/live.m3u8
-#EXTINF:-1,江苏卫视
-http://222.223.119.21:8888/newlive/live/hls/22/live.m3u8
-#EXTINF:-1,湖南卫视
-http://222.223.119.21:8888/newlive/live/hls/23/live.m3u8
-#EXTINF:-1,浙江卫视
-http://222.223.119.21:8888/newlive/live/hls/24/live.m3u8
-#EXTINF:-1,安徽卫视
-http://222.223.119.21:8888/newlive/live/hls/25/live.m3u8
-#EXTINF:-1,广西卫视
-http://222.223.119.21:8888/newlive/live/hls/26/live.m3u8
-#EXTINF:-1,云南卫视
-http://222.223.119.21:8888/newlive/live/hls/27/live.m3u8
-#EXTINF:-1,深证卫视
-http://222.223.119.21:8888/newlive/live/hls/28/live.m3u8
-#EXTINF:-1,贵州卫视
-http://222.223.119.21:8888/newlive/live/hls/29/live.m3u8
-#EXTINF:-1,山东卫视
-http://222.223.119.21:8888/newlive/live/hls/30/live.m3u8
-#EXTINF:-1,重庆卫视
-http://222.223.119.21:8888/newlive/live/hls/31/live.m3u8
-#EXTINF:-1,四川卫视
-http://222.223.119.21:8888/newlive/live/hls/32/live.m3u8
-#EXTINF:-1,河南卫视
-http://222.223.119.21:8888/newlive/live/hls/33/live.m3u8
-#EXTINF:-1,湖北卫视
-http://222.223.119.21:8888/newlive/live/hls/34/live.m3u8
-#EXTINF:-1,吉林卫视
-http://222.223.119.21:8888/newlive/live/hls/35/live.m3u8
-#EXTINF:-1,甘肃卫视
-http://222.223.119.21:8888/newlive/live/hls/36/live.m3u8
-#EXTINF:-1,西藏卫视
-http://222.223.119.21:8888/newlive/live/hls/37/live.m3u8
-#EXTINF:-1,新疆卫视
-http://222.223.119.21:8888/newlive/live/hls/38/live.m3u8
-#EXTINF:-1,青海卫视
-http://222.223.119.21:8888/newlive/live/hls/39/live.m3u8
-#EXTINF:-1,宁夏卫视
-http://222.223.119.21:8888/newlive/live/hls/40/live.m3u8
-#EXTINF:-1,陕西卫视
-http://222.223.119.21:8888/newlive/live/hls/41/live.m3u8
-#EXTINF:-1,东南卫视
-http://222.223.119.21:8888/newlive/live/hls/42/live.m3u8
-#EXTINF:-1,天津卫视
-http://222.223.119.21:8888/newlive/live/hls/43/live.m3u8
-#EXTINF:-1,辽宁卫视
-http://222.223.119.21:8888/newlive/live/hls/44/live.m3u8
-#EXTINF:-1,黑龙江卫视
-http://222.223.119.21:8888/newlive/live/hls/45/live.m3u8
-#EXTINF:-1,江西卫视
-http://222.223.119.21:8888/newlive/live/hls/46/live.m3u8
-#EXTINF:-1,山西卫视
-http://222.223.119.21:8888/newlive/live/hls/47/live.m3u8
-#EXTINF:-1,河北卫视
-http://222.223.119.21:8888/newlive/live/hls/48/live.m3u8
-#EXTINF:-1,河北经济
-http://222.223.119.21:8888/newlive/live/hls/49/live.m3u8
-#EXTINF:-1,河北都市
-http://222.223.119.21:8888/newlive/live/hls/50/live.m3u8
-#EXTINF:-1,河北影视
-http://222.223.119.21:8888/newlive/live/hls/51/live.m3u8
-#EXTINF:-1,河北少儿
-http://222.223.119.21:8888/newlive/live/hls/52/live.m3u8
-#EXTINF:-1,河北公共
-http://222.223.119.21:8888/newlive/live/hls/53/live.m3u8
-#EXTINF:-1,邢台综合
-http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8
-#EXTINF:-1,邢台城市生活
-http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8
-#EXTINF:-1,卡酷少儿
-http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
-#EXTINF:-1,金鹰卡通
-http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
+
 
 📡IPTV 4-2,#genre#
 好吃厨房,http://175.0.104.37:8888/rtp/239.1.0.101:1025
