@@ -44,6 +44,97 @@ https://bp-caster.bestv.com.cn/940/3/video.m3u8
 https://bp-caster.bestv.com.cn/723/3/video.m3u8
 #EXTINF:-1 group-title="📡百视有线",百视有线独播2
 https://bp-caster.bestv.com.cn/936/3/video.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="IPTV4-1",CCTV1-综合HD
+http://183.162.252.133:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV2-财经HD
+http://183.162.252.133:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV3-综艺HD
+http://183.162.252.133:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV4-国际HD
+http://183.162.252.133:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV5-体育HD
+http://183.162.252.133:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV6-电影HD
+http://183.162.252.133:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV7-军农
+http://183.162.252.133:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV8-电视剧
+http://183.162.252.133:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV9-纪录HD
+http://183.162.252.133:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV10-科教HD
+http://183.162.252.133:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV11-戏曲
+http://183.162.252.133:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV12-社会与法HD
+http://183.162.252.133:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV13-新闻HD
+http://183.162.252.133:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV14-少儿
+http://183.162.252.133:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",CCTV15-音乐HD
+http://183.162.252.133:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",马鞍山公共
+http://183.162.252.133:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",马鞍山新闻
+http://183.162.252.133:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",安徽卫视HD
+http://183.162.252.133:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",安徽公共
+http://183.162.252.133:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",北京卫视HD
+http://183.162.252.133:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",东方卫视HD
+http://183.162.252.133:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",天津卫视HD
+http://183.162.252.133:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",重庆卫视HD
+http://183.162.252.133:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",江苏卫视HD
+http://183.162.252.133:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",湖南卫视HD
+http://183.162.252.133:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",浙江卫视HD
+http://183.162.252.133:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",黑龙江卫视
+http://183.162.252.133:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",吉林卫视
+http://183.162.252.133:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",辽宁卫视
+http://183.162.252.133:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",河南卫视
+http://183.162.252.133:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",山东卫视
+http://183.162.252.133:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",山西卫视
+http://183.162.252.133:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",陕西卫视
+http://183.162.252.133:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",宁夏卫视
+http://183.162.252.133:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",甘肃卫视
+http://183.162.252.133:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",湖北卫视
+http://183.162.252.133:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",贵州卫视
+http://183.162.252.133:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",四川卫视
+http://183.162.252.133:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",江西卫视
+http://183.162.252.133:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",东南卫视
+http://183.162.252.133:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",广东卫视
+http://183.162.252.133:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",深圳卫视
+http://183.162.252.133:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="IPTV4-1",广西卫视
+http://183.162.252.133:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 #EXTINF:-1 group-title="📡IPTV 4-2",好吃厨房
 http://175.0.104.37:8888/rtp/239.1.0.101:1025
 #EXTINF:-1 group-title="📡IPTV 4-2",湖南卫视
