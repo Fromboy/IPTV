@@ -3,6 +3,7 @@
 #EXT-IP4 直播源文件收录56个台
 #EXT-date 2023-01-09
 #EXT-X-APP APTV
+📡IPTV 4-1,#genre#
 #EXTINF:-1,CCTV1
 http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
 #EXTINF:-1,CCTV2
