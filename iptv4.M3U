@@ -6,39 +6,6 @@
 #EXT-X-SUB-URL 
 
 #EXTM3U
-#EXTINF:-1 group-title="CCTV-15",CCTV1-综合
-http://1.196.224.3:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV2-财经
-http://1.196.224.3:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV3-综艺
-http://1.196.224.3:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV4-国际
-http://1.196.224.3:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV5-体育
-http://1.196.224.3:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV6-电影
-http://1.196.224.3:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV7-军事
-http://1.196.224.3:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV8-电视剧
-http://1.196.224.3:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV9-纪录
-http://1.196.224.3:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV10-科教
-http://1.196.224.3:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV11-戏曲
-http://1.196.224.3:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV12-社会与法
-http://1.196.224.3:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV13-新闻
-http://1.196.224.3:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV14-少儿
-http://1.196.224.3:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="CCTV-15",CCTV15-音乐
-http://1.196.224.3:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-#EXTM3U
 #EXTINF:-1 group-title="📡百视有线",百视有线直播
 https://bp-caster.bestv.com.cn/944/3/video.m3u8
 #EXTINF:-1 group-title="📡百视有线",百视有线直播TV1
