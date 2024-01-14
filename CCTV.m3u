@@ -473,7 +473,7 @@ http://[2409:8087:1e03:21::36]:6610/cms001/ch00000090990000001031/index.m3u8?lov
 #EXTINF:-1 group-title="央视频 IP6 3",CCTV1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视频 IP6 3",CCTV1
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
+CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 group-title="央视频 IP6 3",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 #EXTINF:-1 group-title="央视频 IP6 3",CCTV1
