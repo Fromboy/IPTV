@@ -5,34 +5,6 @@
 #EXT-X-APTV3-GSYDIPV6直播
 #EXT-X-APTV3-悠哉IPV6直播
 
-#EXTINF:-1 group-title="百视有线",百视有线直播
-https://bp-caster.bestv.com.cn/944/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV1
-https://bp-caster.bestv.com.cn/943/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV2
-https://bp-caster.bestv.com.cn/926/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV3
-https://bp-caster.bestv.com.cn/945/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV4
-https://bp-caster.bestv.com.cn/900/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV5
-https://bp-caster.bestv.com.cn/956/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV6
-https://bp-caster.bestv.com.cn/947/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV7
-https://bp-caster.bestv.com.cn/941/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV10
-https://bp-caster.bestv.com.cn/938/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV11
-https://bp-caster.bestv.com.cn/937/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播TV12
-https://bp-caster.bestv.com.cn/954/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线直播3
-https://bp-caster.bestv.com.cn/940/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线独播1
-https://bp-caster.bestv.com.cn/723/3/video.m3u8
-#EXTINF:-1 group-title="百视有线",百视有线独播2
-https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
 
 #EXTM3U
@@ -252,44 +224,71 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 
 #EXTM3U
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231003/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231022/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 group-title="港澳台",有线新闻
-http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",有线新闻
-http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
-#EXTINF:-1 group-title="港澳台",有线新闻
-http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",民視
-rtmp://9sv2.mine.nu:1935/sat/tv051
-#EXTINF:-1 group-title="港澳台",台視
-rtmp://9sv2.mine.nu:1935/sat/tv071
-#EXTINF:-1 group-title="港澳台",中視
-rtmp://9sv2.mine.nu:1935/sat/tv091
-#EXTINF:-1 group-title="港澳台",中視
-rtmp://9wv7.mine.nu/sat/tv091
-#EXTINF:-1 group-title="港澳台",華視
-rtmp://9sv2.mine.nu:1935/sat/tv111
-#EXTINF:-1 group-title="港澳台",緯來日本
-rtmp://9sv2.mine.nu:1935/sat/tv771
-#EXTINF:-1 group-title="港澳台",緯來體育
-rtmp://9sv2.mine.nu:1935/sat/tv721
-#EXTINF:-1 group-title="港澳台",ELEVEN2
-rtmp://9sv2.mine.nu:1935/sat/md041
-#EXTINF:-1 group-title="港澳台",ELTA體育2
-rtmp://9sv2.mine.nu/sat/md051
+#EXTINF:-1 group-title="百视频道",我们的歌
+http://kkwk1122.top/bestv.php?id=41
+#EXTINF:-1 group-title="百视频道",谜案大世界
+http://kkwk1122.top/bestv.php?id=84
+#EXTINF:-1 group-title="百视频道",完美的夏天
+http://kkwk1122.top/bestv.php?id=59
+#EXTINF:-1 group-title="百视频道",极限挑战
+http://kkwk1122.top/bestv.php?id=27
+#EXTINF:-1 group-title="百视频道",汤妈妈
+http://kkwk1122.top/bestv.php?id=213
+#EXTINF:-1 group-title="百视频道",完美的夏天2
+http://kkwk1122.top/bestv.php?id=222
+#EXTINF:-1 group-title="百视频道",王牌对王牌
+http://kkwk1122.top/bestv.php?id=193
+#EXTINF:-1 group-title="百视频道",东方风云榜
+http://kkwk1122.top/bestv.php?id=146
+#EXTINF:-1 group-title="百视频道",美好生活家
+http://kkwk1122.top/bestv.php?id=228
+#EXTINF:-1 group-title="百视频道",人气美食
+http://kkwk1122.top/bestv.php?id=144
+#EXTINF:-1 group-title="百视频道",漫游记
+http://kkwk1122.top/bestv.php?id=218
+#EXTINF:-1 group-title="百视频道",两个人的世界
+http://kkwk1122.top/bestv.php?id=124
+#EXTINF:-1 group-title="百视频道",高能脱口秀
+http://kkwk1122.top/bestv.php?id=76
+#EXTINF:-1 group-title="百视频道",奔跑吧兄弟
+http://kkwk1122.top/bestv.php?id=201
+#EXTINF:-1 group-title="百视频道",童年国漫
+http://kkwk1122.top/bestv.php?id=37
+#EXTINF:-1 group-title="百视频道",城市真英雄
+http://kkwk1122.top/bestv.php?id=119
+#EXTINF:-1 group-title="百视频道",荒野求生
+http://kkwk1122.top/bestv.php?id=226
+#EXTINF:-1 group-title="百视频道",整容级妆教
+http://kkwk1122.top/bestv.php?id=216
+#EXTINF:-1 group-title="百视频道",天籁之战
+http://kkwk1122.top/bestv.php?id=156
+#EXTINF:-1 group-title="百视频道",宅家瘦全身
+http://kkwk1122.top/bestv.php?id=40
+#EXTINF:-1 group-title="百视频道",居家云打卡
+http://kkwk1122.top/bestv.php?id=120
+#EXTINF:-1 group-title="百视频道",海派滑稽戏
+http://kkwk1122.top/bestv.php?id=38
+#EXTINF:-1 group-title="百视频道",领航
+http://kkwk1122.top/bestv.php?id=134
+#EXTINF:-1 group-title="百视频道",带娃小妙招
+http://kkwk1122.top/bestv.php?id=52
+#EXTINF:-1 group-title="百视频道",东方卫视
+http://kkwk1122.top/bestv.php?id=22
+#EXTINF:-1 group-title="百视频道",新闻综合
+http://kkwk1122.top/bestv.php?id=20
+#EXTINF:-1 group-title="百视频道",外语频道
+http://kkwk1122.top/bestv.php?id=17
+#EXTINF:-1 group-title="百视频道",都市频道
+http://kkwk1122.top/bestv.php?id=18
+#EXTINF:-1 group-title="百视频道",哈哈炫动
+http://kkwk1122.top/bestv.php?id=19
+#EXTINF:-1 group-title="百视频道",纪实人文
+http://kkwk1122.top/bestv.php?id=28
+#EXTINF:-1 group-title="百视频道",第一财经
+http://kkwk1122.top/bestv.php?id=21
+#EXTINF:-1 group-title="百视频道",东方财经
+http://kkwk1122.top/bestv.php?id=26
+
 
 
 
