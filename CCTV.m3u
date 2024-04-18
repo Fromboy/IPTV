@@ -1,10 +1,9 @@
 #EXTM3U
-#EXT-X-APTV1-Kimentanm直播IPV6
-#EXT-X-APTV2-YueChan直播IPV6
-#EXT-X-APTV3-GatherIPV6直播
-#EXT-X-APTV3-GSYDIPV6直播
-#EXT-X-APTV3-悠哉IPV6直播
-#EXTM3U
+#EXT-X-APTV1-FMM直播IPV6 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+#EXT-X-APTV2-YueChan直播IPV6 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
+
+#EXTM3U-YueChan
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" group-title="央视",CCTV-1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV2" group-title="央视",CCTV-2
