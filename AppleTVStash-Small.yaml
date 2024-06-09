@@ -29,7 +29,7 @@ subscribe-url: https://ssr.sanhengyishu.dynv6.net/9e858b7a-065a-4c4f-a55b-d53492
 proxy-providers:
   All:
     type: http
-    url: "https://ssr.sanhengyishu.dynv6.net/9e858b7a-065a-4c4f-a55b-d53492520602"
+    url: "你的订阅地址"
     # ⚠️以下方法任选其一
     # ⚠️有Clash订阅优先使用方法二❗️
     # ⚠️1.可以使用任意类型的链接仅替换上面文字
