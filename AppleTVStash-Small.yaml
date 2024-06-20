@@ -13,7 +13,7 @@ ipv6: true
 external-controller: 127.0.0.1:9090
 
 # 替换上面文字用于Stash获取机场流量信息并在主页显示
-subscribe-url: https://ssr.sanhengyishu.dynv6.net/9e858b7a-065a-4c4f-a55b-d53492520602
+subscribe-url: 
 # 替换上面文字用于Stash获取机场流量信息并在主页显示
   
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
@@ -40,8 +40,8 @@ proxy-providers:
     health-check:
       enable: true
       interval: 300
-      url: http://www.gstatic.com/generate_204
-      benchmark-timeout: 5
+      url: http://wwwtaobao.com
+      benchmark-timeout: 3
       benchmark-url: http://cp.cloudflare.com/generate_204
       filter: ^((?!(邀请|返利|循环|官网|客服|网站|网址|获取|订阅|CMCC|流量|到期|机场|下次|版本|官址|备用|到期|过期|已用|联系|邮箱|工单|群|贩卖|通知|倒卖|假|延迟|无法使用|软件内更新订阅|在官网查看问题|防止|国内)).)*$
 
@@ -52,6 +52,7 @@ dns:
   default-nameserver:
     - 119.29.29.29
     - 223.5.5.5
+    - 114.114.114.114
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
