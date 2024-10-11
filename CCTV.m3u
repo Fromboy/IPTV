@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-APTV1- FMM直播IPV6 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+#EXT-X-APTV2  https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
 #EXT-X-APTV2- YueChan直播IPV6 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 #EXT-X-APTV2- 天微央视直播 https://xhdwc.tk/tvlive.txt
 
