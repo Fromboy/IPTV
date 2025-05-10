@@ -1,3 +1,4 @@
+河南地方,#genre#
 郑教线路,https://livezzutv.chinamcache.com/zb02/zb02.m3u8
 大象融媒,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-1.m3u8
@@ -17,3 +18,15 @@
 驻马店科教2,http://pull-hsbj.vzan.com/v/slowlive_321018633543177422.m3u8
 遂平综合,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
 西平综合,http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
+睛彩中原.http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
+武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
+移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
+安阳新闻综合,http://zhpull.dxhmt.cn/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+临颖综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+中国电影频道,https://live.tvfix.org/live/cmc/index.m3u8
+CHC影迷电影,http://39.164.174.139:5000/nl.m3u8?id=CHCYMDYHD
+CHC家庭影院,http://39.164.174.139:5000/nl.m3u8?id=CHCJTYYHD
+CHC动作电影,http://39.164.174.139:5000/nl.m3u8?id=CHCDZDYHD
