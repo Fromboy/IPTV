@@ -5,7 +5,7 @@
 # DOMAIN-SUFFIX: 5
 # 播放地址: https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/main/IPTV-JP.m3u
 
-[Rule]
+
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,utako.moe
 DOMAIN-SUFFIX,lyngsat.com
