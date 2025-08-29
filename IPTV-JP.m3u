@@ -1,4 +1,4 @@
-#EXTM3U IPTV-JP🇯🇵
+#EXTM3U IPTV-JP🇯🇵2025-0830
 #EXTM3U https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/main/IPTV-JP.m3u
 #EXTM3U 分流 🇯🇵 https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/JSON-VOD/IPTVruleJP.list
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
