@@ -1,0 +1,8 @@
+# IPTV-JP的分流规则请制定为日本代理
+
+[Rule]
+DOMAIN-SUFFIX,upload.wikimedia.org,PROXY
+DOMAIN-SUFFIX,mt01.utako.moe,PROXY
+DOMAIN-SUFFIX,www.lyngsat.com,PROXY
+DOMAIN-SUFFIX,www.starcat.co,PROXY
+DOMAIN-SUFFIX,www.shochiku-tokyu.co,PROXY
