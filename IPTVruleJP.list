@@ -1,4 +1,5 @@
 # IPTV-JP的分流规则请制定为日本代理
+# 播放地址: https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/main/IPTV-JP.m3u
 
 [Rule]
 DOMAIN-SUFFIX,upload.wikimedia.org,PROXY
