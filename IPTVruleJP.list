@@ -1,4 +1,8 @@
-# IPTV-JP的分流规则请制定为日本代理
+# NAME:IPTV-JP应用Loon的分流规则请制定为日本代理
+# AUTHOR: Fromboy
+# REPO: 
+# UPDATED: 2025-08-30 09:18:25
+# DOMAIN-SUFFIX: 5
 # 播放地址: https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/main/IPTV-JP.m3u
 
 [Rule]
