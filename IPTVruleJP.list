@@ -6,8 +6,8 @@
 # 播放地址: https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/main/IPTV-JP.m3u
 
 [Rule]
-DOMAIN-SUFFIX,wikimedia.org,JP
-DOMAIN-SUFFIX,utako.moe,JP
-DOMAIN-SUFFIX,lyngsat.com,JP
-DOMAIN-SUFFIX,starcat.co,JP
-DOMAIN-SUFFIX,shochiku-tokyu.co,JP
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,utako.moe
+DOMAIN-SUFFIX,lyngsat.com
+DOMAIN-SUFFIX,starcat.co
+DOMAIN-SUFFIX,shochiku-tokyu.co
