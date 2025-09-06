@@ -201,13 +201,3 @@ https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
 https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
 #EXTINF:-1 tvg-id="永兴新闻综合" tvg-name="永兴新闻综合" tvg-logo="" group-title="其他地方",永兴新闻综合
 https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="" group-title="CHC",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="中国电影频道" tvg-name="中国电影频道" tvg-logo="" group-title="CHC",中国电影频道
-https://live.tvfix.org/live/cmc/index.m3u8
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="" group-title="CHC",CHC影迷电影
-http://39.164.174.139:5000/nl.m3u8?id=CHCYMDYHD
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="CHC",CHC家庭影院
-http://39.164.174.139:5000/nl.m3u8?id=CHCJTYYHD
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="CHC",CHC动作电影
-http://39.164.174.139:5000/nl.m3u8?id=CHCDZDYHD
