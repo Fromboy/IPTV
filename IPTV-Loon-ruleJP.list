@@ -1,6 +1,7 @@
 # NAME:IPTV-JP应用Loon的分流规则请制定为日本代理
 # AUTHOR: Fromboy
-# REPO: https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/JSON-VOD/IPTV-Loon-ruleJP.list
+# Loon = https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/JSON-VOD/IPTV-Loon-ruleJP.list
+# QuantumultX = https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/JSON-VOD/IPTV-JP-QX.list
 # UPDATED: 2025-08-30 09:18:25
 # DOMAIN-SUFFIX: 5
 # 播放地址: https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/main/IPTV-JP.m3u
