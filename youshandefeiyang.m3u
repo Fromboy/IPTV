@@ -5,8 +5,10 @@ https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="其他",五星体育
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视", CCTV1综合
+#EXTVLCOPT:http-user-agent=Mursor-1.2.0.1
 https://mgtv.ottiptv.cc/migu/608807420.m3u8?migutoken=9986217d8e79f02025709a2301d92fa57dc536df5af9605612bbd7da56d97355ca171d08346bbb78ee0171fdee18001ad0a73cb71abdfb49f8ceb71ef6e16963e25d7c4f4da0bbb4cc0661933e
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视", CCTV2财经
+#EXTVLCOPT:http-user-agent=Mursor-1.2.0.1
 https://mgtv.ottiptv.cc/migu/631780532.m3u8?migutoken=5acfc72e81c2269574c8ddf31c2967b714303f75bf0531130fb9e74751c66be2d3a4006588272e940c5e39011edbb1c503419e97eac50661ea600ce155a295c8b311e429017fc3727e908a4906
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="央视", CCTV3综艺
 https://mgtv.ottiptv.cc/migu/624878271.m3u8?migutoken=bf89142e84df85fb2788dcc6640024579320e53a2761019c4d4b16ce8171605f7ae107fd48c820edfd197e687d49b850cb0d7279f7959278de25e741399345c6b4b13237a13f26710d20056160
