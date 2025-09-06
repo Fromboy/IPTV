@@ -1,7 +1,7 @@
 # NAME: IPTV-JP 应用QuantumultX的分流规则
 # AUTHOR: Fromboy
 # Loon = https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/JSON-VOD/IPTV-Loon-ruleJP.list
-# QuantumultX = 
+# QuantumultX = https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/JSON-VOD/IPTV-JP-QX.list
 # UPDATED: 2025-08-30 09:18:25
 # DOMAIN-SUFFIX: 5
 # 播放地址: https://raw.githubusercontent.com/Fromboy/IPTV/refs/heads/main/IPTV-JP.m3u
