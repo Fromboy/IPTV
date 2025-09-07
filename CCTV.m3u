@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.cn/tv/CCTV1综合.png",CCTV1综合
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.cn/tv/CCTV1综合.png" group-title="央视频道",CCTV1综合
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=202509071500304e1818db60364290b50e38031debd073&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250907150030&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20250907150030&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c51545a4768b08c19bd6f993c318bafb&ddCalcu=bcf5va1ab5y84a153ac4379698fb60d8bc91&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV2-财经" tvg-logo="https://live.fanmingming.cn/tv/CCTV2-财经.png" group-title="央视频道",CCTV2-财经
 http://111.43.126.240:9003/hls/14/index.m3u8
