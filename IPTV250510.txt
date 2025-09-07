@@ -1,3 +1,6 @@
+# https://lysvc.cc/tools/m3u_txt_change.php
+# https://live.fanmingming.com/txt2m3u/
+
 央视频道,#genre#
 CCTV1,http://119.49.221.50:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://139.209.37.241:9901/tsfile/live/0001_1.m3u8?key=txiptv
@@ -1625,3 +1628,4 @@ BesTV,http://www.zhangnas.cn:8000/udp/239.49.0.143:9362
 测试,http://www.zhangnas.cn:8000/udp/239.49.1.157:6000
 测试,http://www.zhangnas.cn:8000/udp/239.49.1.158:6000
 测试,http://www.zhangnas.cn:8000/udp/239.49.8.28:9080
+
