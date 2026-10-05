@@ -7,12 +7,11 @@ import secrets
 import time
 import threading
 from urllib.parse import quote, unquote, urljoin, urlparse
-from lxml import html
 import requests
 from fastapi import FastAPI, Query
 from fastapi.responses import Response, RedirectResponse
 from typing import Optional
-import struct
+from bs4 import BeautifulSoup
 
 # ====================== 全局配置 ======================
 USER_AGENT = (
@@ -74,7 +73,7 @@ def cache_set(key, ttl_sec, data):
         expire_ts = time.time() + ttl_sec
         cache[key] = (expire_ts, data)
 
-# ====================== 央视频签名工具（原wasm逻辑纯Python复刻） ======================
+# ====================== 央视频签名工具（纯Python复刻） ======================
 def ysp_sign(params: dict) -> str:
     sorted_items = sorted(params.items())
     raw = "".join([f"{k}{v}" for k, v in sorted_items])
@@ -82,21 +81,17 @@ def ysp_sign(params: dict) -> str:
     return hashlib.md5(raw.encode("utf8")).hexdigest()
 
 def ysp_build_pb(channel_id: str) -> bytes:
-    """构造protobuf请求包，对应原版getPlayInfo入参"""
     buf = bytearray()
-    # field 1, string, vid = channel_id
     buf.append(0x0A)
     buf.append(len(channel_id))
     buf.extend(channel_id.encode("utf8"))
-    # field 2, uint32, playType=1
     buf.append(0x10)
     buf.append(0x01)
-    # field3, uint32, drmType=0
     buf.append(0x18)
     buf.append(0x00)
     return bytes(buf)
 
-# ====================== 央视网爬虫类 ======================
+# ====================== 央视网爬虫类（改用BeautifulSoup，无lxml依赖） ======================
 class CCTVWeb:
     def __init__(self):
         self.uid = base64.b64encode(secrets.token_bytes(18)).decode("ascii")
@@ -114,11 +109,10 @@ class CCTVWeb:
         headers = {"Referer": CCTV_HOST + "/", "User-Agent": USER_AGENT}
         resp = requests.get(CCTV_CATALOG_URL, headers=headers, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
-        payload = resp.text
-        document = html.fromstring(payload)
+        soup = BeautifulSoup(resp.text, "html.parser")
         channels = []
         seen = set()
-        for anchor in document.xpath("//a[@href]"):
+        for anchor in soup.find_all("a", href=True):
             href = urljoin(CCTV_CATALOG_URL, anchor.get("href", ""))
             match = CCTV_CHANNEL_PATTERN.match(href)
             if not match:
@@ -126,7 +120,7 @@ class CCTVWeb:
             channel_id = match.group(1).lower()
             if channel_id in seen:
                 continue
-            name = " ".join(anchor.text_content().split())
+            name = " ".join(anchor.get_text().split())
             if not name:
                 continue
             seen.add(channel_id)
@@ -342,11 +336,6 @@ def get_channels(cctv_snapshot: Optional[str] = None):
 
 @app.get("/play")
 def play(id: str):
-    """
-    id格式：
-    cctv:cctv1 -> 央视网源
-    ysp:cctv1 -> 央视频源
-    """
     source, raw_id = id.split(":", 1)
     if source == "cctv":
         m3u8_url = cctv_web.resolve(raw_id)
